@@ -5,3 +5,6 @@ opencv-python-headless
 numpy
 Pillow
 matplotlib
+numpy
+torch
+torchvision
